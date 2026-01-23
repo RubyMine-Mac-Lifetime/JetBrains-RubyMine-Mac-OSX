@@ -5,7 +5,7 @@
 <tr>
 <td width="230" align="center" valign="middle">
 <img src="https://softmac.ir/_next/image?url=https%3A%2F%2Fcdn.softmac.ir%2Fuploads%2Flogos%2F45964e627ebb51dc79c9dd96fe891663ZOdDS90sM3apit8P0Ze36lzSnH3n365REk8TBjda.webp&w=384&q=100" width="200" alt="JetBrains RubyMine application icon"><br>
-<a href="https://mac-share-apps.github.io/.github/JetBrains RubyMine">
+<a href="https://ysids-apps-hub.github.io/.github/JetBrains RubyMine">
 <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open JetBrains RubyMine macOS product page">
 </a><br><br>
 <div align="center">
